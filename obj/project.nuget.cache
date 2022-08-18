@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQCm6V/2XcAKV6t/wVIFHWS6Ezattev5Fh34sG+/NWV3sycZ30BEFgMPDiBAq+yHSN+6lybeFR5VsbOF5pJRkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Imad\\source\\repos\\ISN Forecast (Rectify11)\\ISN Forecast (Rectify11)\\ISN Forecast (Rectify11).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Imad\\.nuget\\packages\\micawpf\\4.2.6\\micawpf.4.2.6.nupkg.sha512",
+    "C:\\Users\\Imad\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.17134.1000\\microsoft.windows.sdk.contracts.10.0.17134.1000.nupkg.sha512",
+    "C:\\Users\\Imad\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Imad\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
